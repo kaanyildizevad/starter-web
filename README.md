@@ -13,3 +13,5 @@ As stated above, the main purpose is nothing. But there can be some extras.
 ## Deployment
 
 ## How to Contribute
+
+2014 Git.Training
