@@ -14,4 +14,6 @@ As stated above, the main purpose is nothing. But there can be some extras.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 2014 Git.Training
